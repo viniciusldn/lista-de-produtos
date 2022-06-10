@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "description": "Deve listar todos os produtos",
+      "bonus": false
+    },
+    {
+      "description": "Deve buscar produto por id",
+      "bonus": false
+    }
+  ]
+}
